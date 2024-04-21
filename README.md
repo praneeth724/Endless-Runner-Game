@@ -9,7 +9,7 @@
     <img src="https://github.com/praneeth724/Endless-Runner-Game/assets/116500216/f06d55e0-aacf-4be5-8591-9f7b76d22597" alt="Screenshot 6" style="width:200px; height:auto; margin:5px;">
     <img src="https://github.com/praneeth724/Endless-Runner-Game/assets/116500216/cb2d889b-f368-4368-a4d6-87d167ddeb20" alt="Screenshot 7" style="width:200px; height:auto; margin:5px;">
 </div>
-### 🎮 About the Game
+ 🎮 About the Game
 
 Dive into the adrenaline-pumping world of endless running with our debut Unity visual scripting game! Embark on an exhilarating journey through four heart-pounding levels, each designed to push your reflexes to the limit. Brace yourself for escalating challenges as the game intensifies with increasing speed and obstacles. Dodge, leap, and collect coins to beat your high score and unlock achievements!
 
